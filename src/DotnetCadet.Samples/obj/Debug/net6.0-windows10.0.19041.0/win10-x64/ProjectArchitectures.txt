@@ -1,0 +1,1 @@
+C:\source\repos\dotnetcadet\maui-samples\src\DotnetCadet.Samples\DotnetCadet.Samples\DotnetCadet.Samples.csproj;x64
